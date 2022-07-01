@@ -20,7 +20,7 @@
 
 title: SSI WTF
 description: >- # this means to ignore newlines until "baseurl:"
-  Trying to explain self sovereign identity in the most transparent way possible aiming to make it understandeable for everybody.
+  Trying to explain self sovereign identity in the most transparent way possible aiming to make it understandable for everybody.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ssi.wtf" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ssi_wtf
